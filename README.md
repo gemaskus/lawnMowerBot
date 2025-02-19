@@ -11,3 +11,6 @@ sending commands to the arduino, and then the control loop is contained in the
 arduino, all talking over serial. if I can manage that.
 -The motor control loop and algortihms will be developed and modeled in MATlab
 Simulink
+
+## Contributing
+This is just an empty project, so not much to contribute yet.
